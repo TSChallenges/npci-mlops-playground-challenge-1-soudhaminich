@@ -3,18 +3,19 @@
 ## Title: Process Management in Linux using Python
 
 ### Challenge Details:
-The **Playground Challenge 1** was released on **Thursday, Nov 28, 2024**. Participants should prepare for the challenge individually beforehand. 
+The **Playground Challenge 1** was released on **Thursday, Nov 28, 2024**. 
 
-- **Teams Announcement**: Teams will be announced at the start of the session on **Saturday, Nov 30, 2024**.
-- **Implementation**: Solutions must be implemented on a virtual machine.
-- **Collaboration**: Collaborate with your team in Zoom breakout rooms to implement and finalize your solution.
-- **Instructor Guidance**: Reach out to the instructor for guidance if you face challenges.
+-  Prepare for the challenge individually beforehand.
+-  Teams will be announced at the start of the session on **Saturday, Nov 30, 2024**.
+-  Solutions must be implemented on a virtual machine.
+-  Collaborate with your team in Zoom breakout rooms to implement and finalize your solution.
+-  Reach out to the instructor for guidance if you face challenges.
 
 ---
 
 ### Evaluation:
-1. **Presentation**: Present your solution to the instructor for evaluation (20 points).
-2. **Submission**: Submit the solution files on the GitHub Classroom post-evaluation (individually).
+1. Present your solution to the instructor for evaluation (20 points).
+2. Submit the solution files on the GitHub Classroom post-evaluation (individually).
 
 ---
 
