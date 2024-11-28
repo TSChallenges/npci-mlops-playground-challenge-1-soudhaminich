@@ -1,62 +1,63 @@
-# Assignment: File Operations in Python
+# AIML MLOps Playground Challenge 1
 
-Welcome to the **File Operations Assignment**! Please follow the instructions below to complete this task.
+## Title: Process Management in Linux using Python
 
----
+### Challenge Details:
+The **Playground Challenge 1** was released on **Thursday, Nov 28, 2024**. Participants should prepare for the challenge individually beforehand. 
 
-## **Instructions**
-
-1. **Accept the Assignment:**
-   - Click on the GitHub Classroom link provided to you.
-   - You will be redirected to your individual repository for this assignment.
-
-2. **Clone the Repository:**
-   - Clone the repository to your local machine using the following command:
-     ```bash
-     git clone <your-individual-repo-url>
-     ```
-   - Replace `<your-individual-repo-url>` with the link to your assigned repository.
-
-3. **Navigate to the Repository:**
-   - Move into the repository directory:
-     ```bash
-     cd <repository-name>
-     ```
-
-4. **Edit the `files-ops.py` File:**
-   - Open the `files-ops.py` file in your preferred code editor.
-   - Write your code in this file as per the problem statement provided.
-
-5. **Test Your Code:**
-   - Run and verify your code locally to ensure it meets the requirements.
-
-6. **Commit Your Changes:**
-   - Save your changes and commit them using the following commands:
-     ```bash
-     git add files-ops.py
-     git commit -m "Completed file operations assignment"
-     git push origin main
-     ```
-
-7. **Submit Your Work:**
-   - Once your changes are pushed, your work will be automatically received and queued for evaluation.
+- **Teams Announcement**: Teams will be announced at the start of the session on **Saturday, Nov 30, 2024**.
+- **Implementation**: Solutions must be implemented on a virtual machine.
+- **Collaboration**: Collaborate with your team in Zoom breakout rooms to implement and finalize your solution.
+- **Instructor Guidance**: Reach out to the instructor for guidance if you face challenges.
 
 ---
 
-## **Important Notes**
-
-- Ensure you only edit the `files-ops.py` file. Do not modify other files in the repository.
-- Follow the coding standards and guidelines provided during the assignment briefing.
-- Use meaningful commit messages to describe your changes.
+### Evaluation:
+1. **Presentation**: Present your solution to the instructor for evaluation (20 points).
+2. **Submission**: Submit the solution files on the GitHub Classroom post-evaluation (individually).
 
 ---
 
-## **Evaluation Criteria**
-
-- **Functionality:** The code performs the required operations correctly.
-- **Code Quality:** Adherence to best practices, readability, and comments where necessary.
-- **Timely Submission:** Ensure your changes are pushed before the deadline.
+### Challenge Description:
+As a system administrator, your task is to optimize server performance in a Linux environment. The challenge involves creating a Python script to monitor system processes and simulate partition management using loop devices. This will aid in managing resources effectively and ensuring smooth application operation.
 
 ---
 
-If you face any issues or have questions, feel free to reach out to the instructor or TA. Good luck, and happy coding! 🚀
+### Challenge Requirements:
+Create a Python script named **`process-manager.py`** with the following functionality:
+
+1. **`get_top_cpu_processes(sort_by='cpu', limit=5)`**  
+   Retrieve and display the top 5 processes by CPU usage.
+
+2. **`get_top_mem_processes(sort_by='mem', limit=5)`**  
+   Retrieve and display the top 5 processes by memory usage.
+
+3. **`get_process_info(pid)`**  
+   Fetch and display detailed information about a specific process using its PID.
+
+4. **`search_process(name=None, pid=None)`**  
+   Search for a process by name or PID and display its details.
+
+5. **`kill_process(pid=None, name=None)`**  
+   Terminate a process by its PID or name.
+
+6. **`monitor_process(pid=None, name=None)`**  
+   Continuously monitor a process and display its CPU and memory usage.
+
+---
+
+### Instructions for Participants:
+- Implement the solution in **Python**.
+- Use the virtual machine provided during the session.
+- Collaborate effectively with your team members during breakout sessions.
+- Reach out to the instructor for any questions or challenges.
+
+---
+
+### Submission:
+- Submit your solution files to the GitHub Classroom repository after evaluation.
+- Ensure all scripts are well-documented and functional before submission.
+
+---
+
+Good luck, and happy coding!
