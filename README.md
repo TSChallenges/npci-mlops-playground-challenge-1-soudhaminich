@@ -45,20 +45,3 @@ Create a Python script named **`process-manager.py`** with the following functio
 6. **`monitor_process(pid=None, name=None)`**  
    Continuously monitor a process and display its CPU and memory usage.
 
----
-
-### Instructions for Participants:
-- Implement the solution in **Python**.
-- Use the virtual machine provided during the session.
-- Collaborate effectively with your team members during breakout sessions.
-- Reach out to the instructor for any questions or challenges.
-
----
-
-### Submission:
-- Submit your solution files to the GitHub Classroom repository after evaluation.
-- Ensure all scripts are well-documented and functional before submission.
-
----
-
-Good luck, and happy coding!
